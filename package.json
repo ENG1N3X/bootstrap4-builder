@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap4-builder",
+  "version": "1.0.0",
+  "description": "Webpack bootstrap4 builder",
+  "private": true,
+  "scripts": {
+    "start": "webpack"
+  },
+  "keywords": [],
+  "author": "eng1n3x",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^4.2.2",
+    "sass": "^1.26.10",
+    "sass-loader": "^10.0.2",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "mini-css-extract-plugin": "^0.11.0",
+    "node-sass": "^4.14.1"
+  }
+}
